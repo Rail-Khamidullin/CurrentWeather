@@ -1,0 +1,6 @@
+framework module Pods_CurrentWeatherFinal_CurrentWeatherFinalUITests {
+  umbrella header "Pods-CurrentWeatherFinal-CurrentWeatherFinalUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

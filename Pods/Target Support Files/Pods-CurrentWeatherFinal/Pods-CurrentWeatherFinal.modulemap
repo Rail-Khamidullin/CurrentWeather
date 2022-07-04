@@ -1,0 +1,6 @@
+framework module Pods_CurrentWeatherFinal {
+  umbrella header "Pods-CurrentWeatherFinal-umbrella.h"
+
+  export *
+  module * { export * }
+}
